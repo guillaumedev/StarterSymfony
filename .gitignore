@@ -1,0 +1,13 @@
+/web/bundles/
+/app/cache/*
+/app/config/parameters.yml
+/app/config/parameters.yml.dist
+/app/logs/*
+/vendor/
+/bin/
+/src/AppBundle
+UPGRADE-2.2.md
+UPGRADE-2.3.md
+UPGRADE-2.4.md
+UPGRADE.md
+/.idea/workspace.xml

@@ -1,0 +1,11 @@
+gdev_isaac_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: GdevIsaacBundle:Default:index }
+
+gdev_isaac_home:
+    path:     /
+    defaults: { _controller: GdevIsaacBundle:Default:home }
+
+gdev_contact:
+    path:     /contact/
+    defaults: { _controller: GdevIsaacBundle:Default:contact }
